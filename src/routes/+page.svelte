@@ -5,8 +5,8 @@
 </script>
 
 <svelte:head>
-	<title>Home</title>
-	<meta name="description" content="Svelte demo app" />
+	<title>Strona dla portalu randkowego dla osób po 40 roku życia</title>
+	<meta name="description" content="Strona poświęcona portalowi randkowemu przeznaczonemu dla osób powyżej 40 roku życia. Zapraszamy singli po 40-tce." />
 </svelte:head>
 
 <section>
@@ -22,9 +22,12 @@
 	</h1>
 
 	<h2>
-		try editing <strong>src/routes/+page.svelte</strong>
+		Portal randkowy dla osób po 40 roku życia
 	</h2>
 
+	<p>
+
+	</p>
 	<Counter />
 </section>
 
